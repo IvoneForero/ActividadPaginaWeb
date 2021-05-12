@@ -1,0 +1,40 @@
+#footer {
+    background: rgba(19, 216, 230, 0.26);
+}
+
+#footer a {
+    color: rgb(3, 110, 129);
+}
+
+.header img {
+    width: 200px;
+}
+
+#main .carousel-inner img {
+    max-height: 70vh;
+    object-fit: cover;
+}
+
+#corousel {
+    position: relative;
+}
+
+#corousel .overlay {
+    position: absolute;
+    top: 1;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(10, 126, 155, 0.973);
+}
+
+.btn{
+    background-color: hsl(346, 88%, 90%);
+    border: 3px solid hsl(346, 88%, 90%);
+    font-weight: 500;
+    font-size: 16px;
+    color: rgb(10, 126, 155);
+}
+
